@@ -1,0 +1,116 @@
+# 📜 CyberGuard AI License Agreement
+
+## MIT License with Security Addendum
+
+**Copyright © 2070 CyberGuard AI Security Research Team**
+
+---
+
+## ⚖️ Standard MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 🔐 Security and Ethical Use Addendum
+
+### 1. Prohibited Uses
+This software **SHALL NOT** be used for:
+
+- ❌ **Malicious Activities**: Creating, distributing, or deploying malware, ransomware, or any harmful software
+- ❌ **Unauthorized Access**: Attempting to breach systems without explicit written permission
+- ❌ **Data Theft**: Stealing, exfiltrating, or misusing personal or sensitive data
+- ❌ **Surveillance Abuse**: Mass surveillance or privacy violations
+- ❌ **Weapon Development**: Integration into autonomous weapons or harmful military applications
+- ❌ **Discrimination**: Creating biased AI systems that discriminate against protected groups
+- ❌ **Misinformation**: Generating deepfakes or spreading false information at scale
+
+### 2. Required Uses
+Users **MUST**:
+
+- ✅ Use the software for **defensive security purposes only**
+- ✅ Obtain proper authorization before security testing
+- ✅ Follow responsible disclosure practices for vulnerabilities
+- ✅ Comply with all applicable laws and regulations
+- ✅ Respect privacy and data protection standards (GDPR, CCPA, etc.)
+- ✅ Maintain audit logs of system usage
+- ✅ Implement appropriate access controls
+
+### 3. AI Ethics Compliance
+This AI system must:
+
+- 🤖 Be transparent about its AI-driven nature
+- 🔍 Allow for human oversight and intervention
+- 📊 Provide explainable AI decisions where critical
+- ⚖️ Be regularly audited for bias and fairness
+- 🛡️ Implement privacy-preserving techniques (differential privacy, federated learning)
+
+### 4. Data Handling
+- All collected data must be encrypted at rest and in transit
+- Personal data must comply with international privacy standards
+- Data retention policies must be clearly documented
+- Users have the right to data deletion (RTBF)
+
+### 5. Liability and Disclaimer
+- Users assume **full responsibility** for their use of this software
+- The authors are **not liable** for misuse or illegal activities
+- This software is for **research and educational purposes**
+- Commercial use requires separate licensing agreement
+
+### 6. Reporting Requirements
+Users discovering security vulnerabilities must:
+1. Report privately to security@cyberguard-ai.io
+2. Allow 90 days for remediation before public disclosure
+3. Not exploit vulnerabilities for malicious purposes
+
+### 7. Termination
+Rights under this license **automatically terminate** if:
+- User violates prohibited uses
+- User fails to comply with security requirements
+- User engages in unethical AI practices
+
+---
+
+## 🌍 Jurisdictional Compliance
+
+Users must comply with:
+- **USA**: CFAA, DMCA, Export Control Regulations
+- **EU**: GDPR, NIS Directive, AI Act
+- **International**: Budapest Convention on Cybercrime
+- **AI Regulations**: IEEE P7000 Standards, ISO/IEC 27001
+
+---
+
+## 📞 Contact for Licensing Questions
+
+- **General**: legal@cyberguard-ai.io
+- **Commercial Licensing**: enterprise@cyberguard-ai.io
+- **Security Issues**: security@cyberguard-ai.io
+
+---
+
+## 🔄 Version History
+
+- **v2.0** (2070): Added AI Ethics Addendum
+- **v1.5** (2069): Enhanced security requirements
+- **v1.0** (2068): Initial release
+
+---
+
+**BY USING THIS SOFTWARE, YOU AGREE TO ALL TERMS ABOVE**
